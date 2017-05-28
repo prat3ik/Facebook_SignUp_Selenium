@@ -14,5 +14,5 @@ I assume the machine system is Windows and IDE is eclipse.
       <li> gradlew eclipse </li>
       <li> gradlew build </li>
     </ul>
-  <li> Locate test case </li>
+  <li> Locate test case and run it with <b>testng</b> plugin </li>
 </ol>
